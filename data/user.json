@@ -1,3 +1,9 @@
 {
-    
+    "rajking@gmail.com": {
+        "name": "Raj",
+        "password": "1234",
+        "vehicles": [
+            "TG09F2024"
+        ]
+    }
 }
